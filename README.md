@@ -2,7 +2,7 @@
 Java based program to merge multiple .ahk file <br>
 
 # Screenshots
-<img href="https://github.com/lokmanz/ahk-manager/blob/master/screenshots/guide.png" width="500"/>
+<img href="https://github.com/lokmanz/ahk-manager/blob/master/screenshots/guide.png?raw=true" width="500"/>
 
 # Program
 - Download AHK Manager.zip, extract then run AHK _Manager.jar
